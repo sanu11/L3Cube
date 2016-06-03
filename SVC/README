@@ -1,0 +1,20 @@
+Simple Version Control System.
+
+change directory to SVC/src/main/java/hello
+complie as : javac SVC.java Revision.java RevisionList.java
+
+create a shell function as follows-:
+
+SVC () { java SVC $1 }
+
+add above function to ~/.bashrc file.
+
+Usage-
+
+for committing a new version of file.
+SVC <filename>
+
+for checking out Nth version.
+SVC N  
+
+

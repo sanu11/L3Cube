@@ -1,0 +1,5 @@
+Compile : g++ Duplicate.cpp 
+Execute	: ./a.out DirectoryPath
+
+Enter ID of a corrosponding FileName to Delete Duplicates
+Press -1 to Exit
